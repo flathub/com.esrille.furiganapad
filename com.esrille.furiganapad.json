@@ -18,8 +18,8 @@
                 {
                     "type" : "git",
                     "url" : "https://github.com/esrille/furiganapad.git",
-                    "tag" : "v0.7.0",
-                    "commit" : "d69d2a2250a920b8a8f18b33009c4475b4800f1f"
+                    "tag" : "v0.7.1",
+                    "commit" : "b1dc7eb9e771344cf1d72a54e2dcd929908416b4"
                 }
             ],
             "modules": [
