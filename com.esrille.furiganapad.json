@@ -1,7 +1,7 @@
 {
     "id" : "com.esrille.furiganapad",
     "runtime" : "org.gnome.Platform",
-    "runtime-version" : "46",
+    "runtime-version" : "48",
     "sdk" : "org.gnome.Sdk",
     "command" : "furiganapad",
     "finish-args" : [
@@ -18,8 +18,8 @@
                 {
                     "type" : "git",
                     "url" : "https://github.com/esrille/furiganapad.git",
-                    "tag" : "v0.7.1",
-                    "commit" : "b1dc7eb9e771344cf1d72a54e2dcd929908416b4"
+                    "tag" : "v0.7.2",
+                    "commit" : "57fd321e324a490b10e048d1da32b5efac0be420"
                 }
             ],
             "modules": [
